@@ -102,10 +102,6 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-<<<<<<< HEAD
-          href="https://github.com/bchiang7/v4"
-=======
->>>>>>> c34a911 (updated site title)
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
@@ -113,22 +109,7 @@ const Footer = () => {
             Revised by Michael Antunes
           </div>
 
-<<<<<<< HEAD
-          {githubInfo.stars && githubInfo.forks && (
-            <StyledGitHubInfo>
-              <span>
-                <FormattedIcon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                <FormattedIcon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
-              </span>
-            </StyledGitHubInfo>
-          )}
-=======
         
->>>>>>> c34a911 (updated site title)
         </StyledGitHubLink>
       </StyledMetadata>
     </StyledContainer>

@@ -2,17 +2,10 @@
   "name": "v1",
   "description": "Personal Website V1",
   "version": "1.0.0",
-<<<<<<< HEAD
-  "author": "Yashita Namdeo <yashita.namdeo2000@gmail.com>",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/yashitanamdeo/yashitanamdeo.github.io"
-=======
   "author": "Michael Antunes <michaelantunes77@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/michael092749/michaelantunes77.github.io"
->>>>>>> c34a911 (updated site title)
   },
   "keywords": [
     "gatsby"
@@ -85,8 +78,4 @@
     "lint-staged": "^10.1.2",
     "prettier": "^2.0.4"
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> c34a911 (updated site title)
