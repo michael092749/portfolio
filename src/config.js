@@ -1,9 +1,5 @@
 module.exports = {
-<<<<<<< HEAD
-  siteTitle: 'Yashita Namdeo',
-=======
   siteTitle: 'Michael Antunes',
->>>>>>> c34a911 (updated site title)
   siteDescription:
     'I have experience with C++, Python, Rust and JavaScript, and I am enthusiastic about delving into the world of Machine Learning and exploring the profound impact its solutions can have',
   siteKeywords:
