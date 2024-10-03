@@ -14,6 +14,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
+    "dev": "nodemon server.js",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
@@ -76,6 +77,6 @@
     "gh-pages": "^3.2.3",
     "husky": "^4.2.3",
     "lint-staged": "^10.1.2",
-    "prettier": "^2.0.4"
+    "prettier": "^1.19.1"
   }
 }
