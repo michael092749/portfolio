@@ -3,7 +3,7 @@ date: '2023-09-19'
 title: 'Software Research Engineer '
 company: 'SBIMB'
 location: 'Johannesburg, SA'
-range: 'September 2023 - November 2023'
+range: 'August 2023 - December 2023'
 url: 'https://www.wits.ac.za/research/sbimb/'
 ---
 
